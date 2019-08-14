@@ -1,3 +1,26 @@
+gradle
+out
+.classpath
+.DS_Store
+.idea
+.gradle
+.project
+.salesforce
+.settings
+.sfdx/
+.tern-project
+.vscode/
+!.vscode/extensions.json
+!.vscode/settings.json
+jsconfig.json
+node_modules/
+selenium-client-jars/
+test/artifacts/
+node_modules
+.forceignore
+.eslintrc.json
+.history/
+
 # Compiled class file
 *.class
 
